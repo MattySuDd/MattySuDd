@@ -1,10 +1,5 @@
 <h1 align="">Hi 👋, I'm Matthew (SuD)</h1>
 <h3 align="">I am an aspiring fullstack developer from the UK</h3>
-<style>
-  a {
-    text-decoration: none;
-  }
-</style>
 
 - 🔭 I’m currently working on **Solar Arena (RAGEMP Server)**
 
