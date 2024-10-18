@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Typescript**
 
-- ⚡ Fun fact **I have no idea what I am doing**
+- ⚡ Fun fact **I once spent hours debugging, only to realise I was missing a semicolon 😅**
 
 
 <h3 align="left">Languages and Tools:</h3>
