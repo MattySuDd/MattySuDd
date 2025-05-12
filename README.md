@@ -1,11 +1,11 @@
 <h1 align="">Hi 👋, I'm Matthew (SuD)</h1>
 <h3 align="">I am an aspiring fullstack developer from the UK</h3>
 
-- 🔭 I’m currently working on **Solar Arena (RAGEMP Server)**
+- 🔭 I’m currently working on **No Project, Open to suggestions!**
 
-- 🌱 I’m currently learning **Vue, Nuxt**
+- 🌱 I’m currently learning **High level Java, Python**
 
-- 💬 Ask me about **React, Typescript**
+- 💬 Ask me about **Vue, Typescript, Javascript, Nuxt, Python**
 
 - ⚡ Fun fact **I once spent hours debugging, only to realise I was missing a semicolon 😅**
 
